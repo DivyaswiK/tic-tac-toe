@@ -1,0 +1,13 @@
+{
+  "generatedBy": "Noah-AI",
+  "schema": 1,
+  "lastDeployment": {
+    "deploymentId": "dep-d8ld8fflk1mc73aq0pjg",
+    "platform": "render",
+    "commit": "1ed94e360db9cb62b4b64ca37c0e4369191ed2de",
+    "url": "https://tic-tac-toe-1z96.onrender.com",
+    "status": "failed",
+    "deployedAt": "2026-06-11T15:36:08.094Z"
+  },
+  "lastSuccessfulDeployment": null
+}
