@@ -1,0 +1,24 @@
+{
+  "generatedBy": "Noah-AI",
+  "schema": 2,
+  "project": {
+    "name": null,
+    "language": "JavaScript",
+    "appType": "api"
+  },
+  "platform": "render",
+  "strategy": "A",
+  "tier": "free",
+  "frontend": null,
+  "backend": {
+    "framework": "Unknown",
+    "root": null
+  },
+  "database": {
+    "provider": null
+  },
+  "buildCommand": "npm install",
+  "startCommand": "node app.js",
+  "envRequired": [],
+  "generatedFiles": []
+}
