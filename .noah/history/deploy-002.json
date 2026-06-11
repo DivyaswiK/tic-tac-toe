@@ -1,0 +1,13 @@
+{
+  "deploymentId": "dep-d8ldjl0g4nts73c64050",
+  "sequence": 2,
+  "platform": "render",
+  "strategy": "A",
+  "database": null,
+  "status": "failed",
+  "commit": "14834e59d0a0b561a5c3f974b83cc499fbd3352a",
+  "deploymentUrl": "https://tic-tac-toe-1z96.onrender.com",
+  "durationMs": 418890,
+  "generatedFiles": [],
+  "createdAt": "2026-06-11T15:59:47.580Z"
+}
