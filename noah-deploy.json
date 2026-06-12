@@ -4,20 +4,20 @@
   "project": {
     "name": null,
     "language": "JavaScript",
-    "appType": "api"
+    "appType": "static"
   },
-  "platform": "render",
+  "platform": "vercel",
   "strategy": "A",
   "tier": "free",
-  "frontend": null,
-  "backend": {
-    "framework": "Unknown",
+  "frontend": {
+    "framework": "Static HTML",
     "root": null
   },
+  "backend": null,
   "database": {
     "provider": null
   },
-  "buildCommand": "npm install",
+  "buildCommand": "npm run build",
   "startCommand": "node app.js",
   "envRequired": [],
   "generatedFiles": []
