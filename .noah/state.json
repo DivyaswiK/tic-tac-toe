@@ -2,12 +2,18 @@
   "generatedBy": "Noah-AI",
   "schema": 1,
   "lastDeployment": {
-    "deploymentId": "dep-d8ldjl0g4nts73c64050",
-    "platform": "render",
-    "commit": "14834e59d0a0b561a5c3f974b83cc499fbd3352a",
-    "url": "https://tic-tac-toe-1z96.onrender.com",
-    "status": "failed",
-    "deployedAt": "2026-06-11T15:59:47.580Z"
+    "deploymentId": "dpl_4egP2R94aYhFo3AiW6cgicQgCWHg",
+    "platform": "vercel",
+    "commit": "9f55e8038a8e6162c1b584c4a2864480cdf20095",
+    "url": "https://tic-tac-toe-khaki-eta-80.vercel.app",
+    "status": "success",
+    "deployedAt": "2026-06-12T15:54:55.205Z"
   },
-  "lastSuccessfulDeployment": null
+  "lastSuccessfulDeployment": {
+    "deploymentId": "dpl_4egP2R94aYhFo3AiW6cgicQgCWHg",
+    "platform": "vercel",
+    "commit": "9f55e8038a8e6162c1b584c4a2864480cdf20095",
+    "url": "https://tic-tac-toe-khaki-eta-80.vercel.app",
+    "deployedAt": "2026-06-12T15:54:55.205Z"
+  }
 }
