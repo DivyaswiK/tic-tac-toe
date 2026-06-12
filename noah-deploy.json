@@ -17,8 +17,8 @@
   "database": {
     "provider": null
   },
-  "buildCommand": "npm run build",
-  "startCommand": "node app.js",
+  "buildCommand": null,
+  "startCommand": "npx -y serve -s . -l $PORT",
   "envRequired": [],
   "generatedFiles": []
 }
